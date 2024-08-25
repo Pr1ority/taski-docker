@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-j_89af+30&&4qm*8z9_(^zz8p4-ho8z_m6ylm0s$h!-p@on1_^
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['158.160.83.198', 'localhost', 'taskiwow.zapto.org', '127.0.0.1']
+ALLOWED_HOSTS = ['89.169.164.112', 'localhost', 'taskiwow.zapto.org', '127.0.0.1']
 
 
 # Application definition
